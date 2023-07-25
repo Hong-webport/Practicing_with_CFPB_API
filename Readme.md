@@ -1,7 +1,9 @@
 ## Process So far.
 
 
+# Plan as of 072523
 
+Shrink the data down, use more data from Ipsum, with different valuables, then merge and use sklearns model to predict if it happen in 2023
 
 # Data Sources:
 
@@ -25,5 +27,5 @@ After checking several factors I decided to use states as it gave me 51 points t
 
 There are less information for states from CFPB so I decided to got US Census, but that site is waste of time in navigating through it. I decided to go to where Wikipedia pull their data from and merge those data together with what I have. 
 
-#
+The more I do it, the more I see either more data needed or more data mapping.
 
