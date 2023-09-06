@@ -1,4 +1,16 @@
 # Practicing_with_CFPB_API
+## Plan as of 0823
+
+#### Django App 1
+After learning in Silicon D with Eli the Computer Guy, this exercise will feature:
+-OpenAI -Dall-E to create an interface for the next app
+#### Django App 2
+Incorporate the Django App with the machine-learning results from CFPB data. The purpose is to have a secure and fun way to log and view them more lightly with some AI-generate rudimentary text for beginner analytics
+#### Django App 3
+
+load it into a mobile app.
+
+
 ##Plan as of 072523
 
 Shrink the data down, use more data from Ipsum, with different valuables, then merge and use sklearns model to predict if it happen in 2023
